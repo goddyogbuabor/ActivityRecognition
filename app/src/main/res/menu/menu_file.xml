@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/exportdata"
+        android:title="@string/data" />
+    <item android:id="@+id/deleteData"
+        android:title="@string/records" />
+    <item android:id="@+id/closeApp"
+        android:title="@string/close" />
+
+</menu>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Mcardiac</string>
+    <string name="data">Export Records</string>
+    <string name="records">Delete Records</string>
+    <string name="close">Close</string>
+
+    <string-array name="position">
+        <item>Select Position</item>
+        <item>Hand</item>
+        <item>Pocket</item>
+    </string-array>
+    <string-array name="activities">
+        <item>Select Activity</item>
+        <item>Walking</item>
+        <item>Sitting</item>
+        <item>Standing</item>
+        <item>Jogging</item>
+        <item>Running</item>
+        <item>Vehicle</item>
+        <item>Train</item>
+        <item>Walking Downstairs</item>
+        <item>Walking Upstairs</item>
+        <item>Classification Data</item>
+    </string-array>
+</resources>
